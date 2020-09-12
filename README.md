@@ -6,6 +6,7 @@ Basics of Visualization
 
 2. [Day 2 - Advanced(Line, Bar)](https://github.com/sjlouji/MatplotLib-Visualization/tree/master/Day%202)
 
+3. [Day 3 - Pie Chart(https://github.com/sjlouji/MatplotLib-Visualization/tree/master/Day%203)
 
 ## Get in touch with me
 
