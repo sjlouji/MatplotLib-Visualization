@@ -4,9 +4,15 @@ Basics of Visualization
 
 1. [Day 1 - Line, Bar, Scatter](https://github.com/sjlouji/MatplotLib-Visualization/tree/master/Day%201)
 
-2. [Day 2 - Advanced(Line, Bar)](https://github.com/sjlouji/MatplotLib-Visualization/tree/master/Day%202)
+2. [Day 2 - Intermediate(Line, Bar)](https://github.com/sjlouji/MatplotLib-Visualization/tree/master/Day%202)
 
 3. [Day 3 - Pie Chart](https://github.com/sjlouji/MatplotLib-Visualization/tree/master/Day%203)
+
+4. Day 4
+      | - [Fills in Line Plot](https://github.com/sjlouji/MatplotLib-Visualization/blob/master/Day%204/Day%204%20-%20Fills%20in%20line%20Plot.ipynb)
+      | - [StackPlots](https://github.com/sjlouji/MatplotLib-Visualization/blob/master/Day%204/Day%204%20-%20StackPlots.ipynb)
+      | - [Scatter](https://github.com/sjlouji/MatplotLib-Visualization/blob/master/Day%204/Day%204%20-%20Scatter.ipynb)
+      | - [Histograms](https://github.com/sjlouji/MatplotLib-Visualization/blob/master/Day%204/Day%204%20-%20Histograms.ipynb)
 
 ## Get in touch with me
 
